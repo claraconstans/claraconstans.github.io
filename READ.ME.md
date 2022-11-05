@@ -7,13 +7,15 @@ o Information architecture: in this project, which is assumed to be a singlepage
 
 o Visual design: which color palette will you use? Which typography?
 Which page layout? Look for inspirational similar projects
-    Color palette:
-        #3e4a58 -> this color is for the header and footer, it delimits the space well.
-        #9dd4e2 -> this color is the main color, it is the most colorful and catches the eye of the users.
-        #ceecf4 -> this color is used to delimit sections within the headland, to draw attention within the section.
+   Color palette:
+       #3e4a58 -> this color is for the header and footer, it delimits the space well.
+       #9dd4e2 -> this color is the main color, it is the most colorful and catches the eye of the users.
+       #ceecf4 -> this color is used to delimit sections within the headland, to draw attention within the section.
 
-    There are two typography:
-        monospace, serif -> for the titles
-        Verdana,Arial, serif -> for text
+   There are two typography:
+       monospace, serif -> for the titles
+       Verdana,Arial, serif -> for text
 
-    The page simulates that it is a business card located in the middle of the page and has different sections. By not occupying the entire page and being divided by parts it seems to be more dynamic and with less text to read, thus facilitating and ensuring the reading of users.
+   The page simulates that it is a business card located in the middle of the page and has different sections. By not occupying the entire page and being divided by        parts it seems to be more dynamic and with less text to read, thus facilitating and ensuring the reading of users.
+
+Link: https://claraconstans.github.io/
